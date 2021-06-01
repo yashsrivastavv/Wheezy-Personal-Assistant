@@ -82,8 +82,8 @@ def work():
 if __name__ == '__main__':
 
     while True:
-        job = takeInput().lower()
-        if 'there' in job:
+        # job = takeInput().lower()
+        # if 'there' in job:
             wishme()
             work()
 
