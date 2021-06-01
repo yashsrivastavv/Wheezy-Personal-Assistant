@@ -78,6 +78,8 @@ def work():
                 speak(i + 1)
                 speak(collect)
                 print("News", i + 1, ":", collect)
+        elif 'open whatsapp' in  query:
+
 
 if __name__ == '__main__':
 
