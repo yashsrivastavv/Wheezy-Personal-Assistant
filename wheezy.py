@@ -79,12 +79,12 @@ def work():
                 speak(collect)
                 print("News", i + 1, ":", collect)
 
-        if __name__ == '__main__':
-            job = takeInput().lower()
-            while True:
-                if 'there' in job:
-                    wishme()
-                    work()
+if __name__ == '__main__':
 
+    while True:
+        job = takeInput().lower()
+        if 'there' in job:
+            wishme()
+            work()
 
     # takeInput()
