@@ -1,3 +1,4 @@
+import pyjokes
 import pyttsx3
 import datetime
 import speech_recognition as sr
@@ -5,7 +6,9 @@ import wikipedia
 import webbrowser
 import json
 import requests
+import sys
 import newsapi
+import pyjokes
 
 engine = pyttsx3.init('sapi5')
 voices = engine.getProperty('voices')
@@ -78,15 +81,24 @@ def work():
                 speak(i + 1)
                 speak(collect)
                 print("News", i + 1, ":", collect)
-        elif 'open whatsapp' in  query:
+        elif 'jokes' in query:
+            joke= pyjokes.get_joke()
+            print(joke)
+            speak(joke)
+
+
+        elif'quit' in query:
+            exit()
+        # elif 'open whatsapp' in  query:
 
 
 if __name__ == '__main__':
-
-    while True:
-        # job = takeInput().lower()
-        # if 'there' in job:
+   while True:
+        po = takeInput().lower()
+        if 'Hey' in po or 'there' in po:
             wishme()
             work()
+        if'exit' in po:
+            sys.exit()
 
     # takeInput()
