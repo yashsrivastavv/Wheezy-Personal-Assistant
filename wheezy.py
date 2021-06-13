@@ -1,4 +1,3 @@
-import pyjokes
 import pyttsx3
 import datetime
 import speech_recognition as sr
@@ -7,8 +6,8 @@ import webbrowser
 import json
 import requests
 import sys
-import newsapi
 import pyjokes
+import wolframalpha
 
 engine = pyttsx3.init('sapi5')
 voices = engine.getProperty('voices')
@@ -54,14 +53,12 @@ def takeInput():
 def work():
     while True:
         query = takeInput().lower()
-
         if 'wikipedia' in query:
             speak("Searching Wikipedia...")
             query = query.replace("wikipedia", "")
             results = wikipedia.summary(query, sentences=2)
             speak("According To Wikipedia")
             print(results)
-
             speak(results)
         elif 'open youtube' in query:
             webbrowser.open("youtube.com")
@@ -85,20 +82,22 @@ def work():
             joke= pyjokes.get_joke()
             print(joke)
             speak(joke)
-
-
-        elif'quit' in query:
+        elif 'what' in query or 'solve' in query:
+            app_id= 'QU44UH-WRV2R7URUP'
+            client = wolframalpha.Client(app_id)
+            res=client.query(query)
+            answer = next(res.results).text
+            print(answer)
+            speak(answer)
+        elif 'quit' in query or 'exit' in query:
             exit()
-        # elif 'open whatsapp' in  query:
-
+        #elif 'open whatsapp' in  query:
 
 if __name__ == '__main__':
    while True:
-        po = takeInput().lower()
-        if 'Hey' in po or 'there' in po:
+        say = takeInput().lower()
+        if 'Hey' in say or 'there' in say:
             wishme()
             work()
-        if'exit' in po:
+        if'exit' in say:
             sys.exit()
-
-    # takeInput()
