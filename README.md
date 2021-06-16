@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_131987459_stock-vector-artificial-intelligence-ai-processor-chip-icon-symbol-for-graphic-design-web-site-social-media-mobil.html&psig=AOvVaw2zTdZJB15MrF5DSWi-juqh&ust=1623908212583000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjMk9K3m_ECFQAAAAAdAAAAABAD">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -21,14 +21,14 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/yashsrivastavv/Wheezy-Personal-Assistant"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/yashsrivastavv/Wheezy-Personal-Assistant">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/yashsrivastavv/Wheezy-Personal-Assistant/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/yashsrivastavv/Wheezy-Personal-Assistant/issues">Request Feature</a>
   </p>
 </p>
 
@@ -74,10 +74,7 @@ Here's a blank template to get started:
 
 ### Built With
 
-* []()
-* []()
-* []()
-
+* [Python](https://www.python.org/)
 
 
 <!-- GETTING STARTED -->
@@ -85,23 +82,16 @@ Here's a blank template to get started:
 
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/yashsrivastavv/Wheezy-Personal-Assistant
    ```
-2. Install NPM packages
+2. Install requirements.txt 
    ```sh
-   npm install
+   pip install -r requirements.txt
    ```
 
 
@@ -111,14 +101,12 @@ This is an example of how to list things you need to use the software and how to
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/yashsrivastavv/Wheezy-Personal-Assistant/issues) for a list of proposed features (and known issues).
 
 
 
@@ -147,16 +135,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
+Project Link: [https://github.com/yashsrivastavv/Wheezy-Personal-Assistant](https://github.com/yashsrivastavv/Wheezy-Personal-Assistant)
 
 
 
