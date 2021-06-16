@@ -146,7 +146,7 @@ Project Link: [https://github.com/yashsrivastavv/Wheezy-Personal-Assistant](http
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
 [contributors-url]: https://github.com/yashsrivastavv/Wheezy-Personal-Assistant/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/yashsrivastavv/Wheezy-Personal-Assistant/network/members
+[forks-url]: https://github.com/yashsrivastavv/Wheezy-Personal-Assistant/network
 [stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
 [stars-url]: https://github.com/yashsrivastavv/Wheezy-Personal-Assistant/stargazers
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
