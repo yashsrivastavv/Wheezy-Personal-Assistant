@@ -5,15 +5,15 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/yash-srivastava-/]
+[![LinkedIn][linkedin-shield]][]
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_131987459_stock-vector-artificial-intelligence-ai-processor-chip-icon-symbol-for-graphic-design-web-site-social-media-mobil.html&psig=AOvVaw2zTdZJB15MrF5DSWi-juqh&ust=1623908212583000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjMk9K3m_ECFQAAAAAdAAAAABAD">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/yashsrivastavv/Wheezy-Personal-Assistant">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_131987459_stock-vector-artificial-intelligence-ai-processor-chip-icon-symbol-for-graphic-design-web-site-social-media-mobil.html&psig=AOvVaw2zTdZJB15MrF5DSWi-juqh&ust=1623908212583000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjMk9K3m_ECFQAAAAAdAAAAABAD" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">project_title</h3>
@@ -133,7 +133,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@linkedin_handle](https://www.linkedin.com/in/yash-srivastava-/) - email
 
 Project Link: [https://github.com/yashsrivastavv/Wheezy-Personal-Assistant](https://github.com/yashsrivastavv/Wheezy-Personal-Assistant)
 
