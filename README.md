@@ -13,7 +13,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/yashsrivastavv/Wheezy-Personal-Assistant">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_131987459_stock-vector-artificial-intelligence-ai-processor-chip-icon-symbol-for-graphic-design-web-site-social-media-mobil.html&psig=AOvVaw2zTdZJB15MrF5DSWi-juqh&ust=1623908212583000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjMk9K3m_ECFQAAAAAdAAAAABAD" alt="Logo" width="80" height="80">
+    <img src="https://previews.123rf.com/images/ascom73/ascom731909/ascom73190900009/131987459-artificial-intelligence-ai-processor-chip-icon-symbol-for-graphic-design-web-site-social-media-mobil.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Wheezy-Personal-Assistant</h3>
