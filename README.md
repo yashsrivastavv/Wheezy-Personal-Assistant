@@ -5,7 +5,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/yash-srivastava-/]
 
 
 
@@ -133,7 +133,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Your Name - [@linkedin_handle](https://www.linkedin.com/in/yash-srivastava-/) - email
 
 Project Link: [https://github.com/yashsrivastavv/Wheezy-Personal-Assistant](https://github.com/yashsrivastavv/Wheezy-Personal-Assistant)
 
