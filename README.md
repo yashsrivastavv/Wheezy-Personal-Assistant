@@ -16,7 +16,7 @@
     <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_131987459_stock-vector-artificial-intelligence-ai-processor-chip-icon-symbol-for-graphic-design-web-site-social-media-mobil.html&psig=AOvVaw2zTdZJB15MrF5DSWi-juqh&ust=1623908212583000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjMk9K3m_ECFQAAAAAdAAAAABAD" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">Wheezy-Personal-Assistant</h3>
 
   <p align="center">
     project_description
@@ -47,7 +47,6 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -56,7 +55,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
