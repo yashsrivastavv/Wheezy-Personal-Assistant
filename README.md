@@ -1,9 +1,9 @@
 # Wheezy-Personal-Assistant
 
-[![Contributors][contributors-shield]][contributors-url]
+<!-- [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+[![Issues][issues-shield]][issues-url] -->
 <!-- [![MIT License][license-shield]][license-url] -->
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -134,8 +134,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Linked-In: [https://www.linkedin.com/in/yash-srivastava-/](https://www.linkedin.com/in/yash-srivastava-/)
-Project Link: [https://github.com/yashsrivastavv/Wheezy-Personal-Assistant](https://github.com/yashsrivastavv/Wheezy-Personal-Assistant)
+* Linked-In: [https://www.linkedin.com/in/yash-srivastava-/](https://www.linkedin.com/in/yash-srivastava-/)
+* Project Link: [https://github.com/yashsrivastavv/Wheezy-Personal-Assistant](https://github.com/yashsrivastavv/Wheezy-Personal-Assistant)
 
 
 
@@ -143,14 +143,14 @@ Project Link: [https://github.com/yashsrivastavv/Wheezy-Personal-Assistant](http
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
+<!-- [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
 [contributors-url]: https://github.com/yashsrivastavv/Wheezy-Personal-Assistant/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
 [forks-url]: https://github.com/yashsrivastavv/Wheezy-Personal-Assistant/network
 [stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
 [stars-url]: https://github.com/yashsrivastavv/Wheezy-Personal-Assistant/stargazers
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/yashsrivastavv/Wheezy-Personal-Assistant/issues
+[issues-url]: https://github.com/yashsrivastavv/Wheezy-Personal-Assistant/issues -->
 <!-- [license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
 [license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
