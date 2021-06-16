@@ -63,9 +63,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+**This is python based Personal Assistant which can perform many tasks by taking natural language voice commands**
+Here's what this personal assistant can do:
+  * Open Websites
+  * Tell Top 10 News Headlines
+  * Search a Place In Google Maps
+  * Weather Forecast
+  * Tell Jokes
+  * Solve Problems
 
 
 ### Built With
