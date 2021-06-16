@@ -5,7 +5,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/yash-srivastava-/]
 
 
 
@@ -13,7 +13,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/yashsrivastavv/Wheezy-Personal-Assistant">
-    <img src="https://previews.123rf.com/images/ascom73/ascom731909/ascom73190900009/131987459-artificial-intelligence-ai-processor-chip-icon-symbol-for-graphic-design-web-site-social-media-mobil.jpg" alt="Logo" width="80" height="80">
+    <img src="https://previews.123rf.com/images/ascom73/ascom731909/ascom73190900009/131987459-artificial-intelligence-ai-processor-chip-icon-symbol-for-graphic-design-web-site-social-media-mobil.jpg" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Wheezy-Personal-Assistant</h3>
@@ -131,7 +131,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-
+Linked-In: [https://www.linkedin.com/in/yash-srivastava-/](https://www.linkedin.com/in/yash-srivastava-/)
 Project Link: [https://github.com/yashsrivastavv/Wheezy-Personal-Assistant](https://github.com/yashsrivastavv/Wheezy-Personal-Assistant)
 
 
