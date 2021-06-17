@@ -1,0 +1,15 @@
+beautifulsoup4==4.9.3
+future==0.18.2
+google-auth-oauthlib==0.4.4
+numpy==1.20.2
+oauthlib==3.1.0
+pyttsx3==2.90
+pywhatkit==4.7
+pywin32==300
+pyjokes==0.6.0
+requests==2.25.1
+requests-oauthlib==1.3.0
+SpeechRecognition==3.8.1
+urllib3==1.26.4
+wikipedia==1.4.0
+wolframalpha==5.0.0
